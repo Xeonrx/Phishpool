@@ -1,2 +1,3 @@
-# PhishNet
-List of phishing domains for different services/platforms.
+# Phishpool
+Wordlists of phishing domains I come accross for different platforms and services. <br />
+
